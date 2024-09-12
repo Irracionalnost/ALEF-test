@@ -1,8 +1,8 @@
 # alef-test
 Тестовое задание 
 
-node.js v18.18.0
-npm 10.3.0
+1) node.js v18.18.0
+2) npm 10.3.0
 
 
 ## Project Setup
